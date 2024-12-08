@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "image": "/producto1.PNG",
+      "name": "Producto 1",
+      "sku": "SKU001",
+      "price": 29.99,
+      "comparePrice": 39.99
+    },
+    {
+      "id": 2,
+      "image": "/producto2.PNG",
+      "name": "Producto 2",
+      "sku": "SKU002",
+      "price": 49.99,
+      "comparePrice": null
+    },
+    {
+      "id": 3,
+      "image": "/producto3.PNG",
+      "name": "Producto 3",
+      "sku": "SKU003",
+      "price": 19.99,
+      "comparePrice": 24.99
+    },
+    {
+      "id": 4,
+      "image": "/producto4.PNG",
+      "name": "Producto 4",
+      "sku": "SKU004",
+      "price": 34.99,
+      "comparePrice": null
+    },
+    {
+      "id": 5,
+      "image": "/producto5.PNG",
+      "name": "Producto 5",
+      "sku": "SKU005",
+      "price": 99.99,
+      "comparePrice": 120.00
+    },
+    {
+      "id": 6,
+      "image": "/producto6.PNG",
+      "name": "Producto 6",
+      "sku": "SKU006",
+      "price": 15.99,
+      "comparePrice": null
+    }
+  ]
+  

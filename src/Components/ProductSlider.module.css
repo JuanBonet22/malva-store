@@ -1,0 +1,33 @@
+.sliderContainer {
+  padding: 2rem;
+  background-color: #f9f9f9;
+  text-align: center;
+}
+
+.productCard {
+  padding: 1rem;
+  text-align: center;
+}
+
+.productImage {
+  width: 100%;
+  max-width: 70%;
+  height: auto;
+  margin: 0 auto 1rem;
+}
+
+.productName {
+  font-size: 1.2rem;
+  margin: 0.5rem 0;
+}
+
+.productPrice {
+  color: #ff6584;
+  font-weight: bold;
+}
+
+.productComparePrice {
+  color: #888;
+  text-decoration: line-through;
+  font-size: 0.9rem;
+}
